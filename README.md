@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Array
+|  |
+| ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
