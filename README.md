@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/0202-happy-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akahat18/Leetcode_Qutionaries/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
